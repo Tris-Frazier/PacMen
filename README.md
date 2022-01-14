@@ -11,10 +11,10 @@ To view this program, download index.html and all PNG image files into the same 
 * HTML
 * JavaScript
 
-# Future Improvements
-[] make Pacmen random colors
-[] make Pacmen open and close mouths while moving
-[] make Pacmen change face direction when they reach the screen edge
+# Planned Future Improvements
+- [ ] make Pacmen random colors
+- [ ] make Pacmen open and close mouths while moving
+- [ ] make Pacmen change face direction when they reach the screen edge
 
 # License
 This project is licensed under the MIT License.
